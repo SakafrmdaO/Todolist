@@ -13,6 +13,7 @@ form{
     margin: auto;
     border-radius: 8px;
     display: none;
+    margin-top: 2%;
 }
 .show{
     display: block;
@@ -22,9 +23,11 @@ form{
     background-color: blue;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
 }
 .edit{
     background-color: red;
+    cursor: pointer;
 }
 input{
     display: block;
@@ -81,6 +84,7 @@ section div{
     background-color:blue;
     padding: 10px 20px;
     width: fit-content;
+    cursor: pointer;
 }
 span i{
     background-color: green;
